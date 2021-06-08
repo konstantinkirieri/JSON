@@ -1,22 +1,27 @@
-{
-    "England": {
+[
+    {
+        "name": "England",
         "top": "262px",
         "left": "138px"
     },
-    "Spain": {
+    {
+        "name": "Spain",
         "top": "423px",
         "left": "79px"
     },
-    "France": {
+    {
+        "name": "France",
         "top": "341px",
         "left": "161px"
     },
-    "Italy": {
+    {
+        "name": "Italy",
         "top": "397px",
         "left": "259px"
     },
-    "CzechRepublic": {
+    {
+        "name": "CzechRepublic",
         "top": "318px",
         "left": "304px"
     }
-}
+]
