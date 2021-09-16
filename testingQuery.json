@@ -1,0 +1,118 @@
+{
+  "stores":[
+    {
+      "name":"Имя хранлища/схемы1",
+      "description":"описани",
+      "tables":[
+        {
+          "name":"Имя таблицы11",
+          "description":"описание",
+          "isTransfer":true,
+          "isTruncate":true,
+          "selectionCriteria":"условие отбора",
+          "attrs":[
+            {
+              "name":"Имя атребута",
+              "description":"описание",
+              "typePersonalInformation":"none"
+            },
+            {
+              "name":"ФИО",
+              "description":"описание",
+              "typePersonalInformation":"fullName"
+            }
+          ]
+        },
+        {
+          "name":"Имя таблицы12",
+          "description":"описание",
+          "isTransfer":true,
+          "isTruncate":true,
+          "selectionCriteria":"id>40 and id<500",
+          "attrs":[
+            {
+              "name":"Имя атребута",
+              "description":"описание",
+              "typePersonalInformation":"none"
+            },
+            {
+              "name":"ФИО",
+              "description":"описание",
+              "typePersonalInformation":"fullName"
+            }
+          ]
+        },
+        {
+          "name":"Имя таблицы13",
+          "description":"описание",
+          "isTransfer":false,
+          "isTruncate":false,
+          "attrs":[
+            {
+              "name":"Имя атребута",
+              "description":"описание",
+              "typePersonalInformation":"none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name":"Имя хранлища/схемы2",
+      "description":"описани",
+      "tables":[
+        {
+          "name":"Имя таблицы21",
+          "description":"описание",
+          "isTransfer":true,
+          "isTruncate":true,
+          "selectionCriteria":"условие отбора",
+          "attrs":[
+            {
+              "name":"Имя атребута",
+              "description":"описание",
+              "typePersonalInformation":"none"
+            },
+            {
+              "name":"ФИО",
+              "description":"описание",
+              "typePersonalInformation":"fullName"
+            }
+          ]
+        },
+        {
+          "name":"Имя таблицы22",
+          "description":"описание",
+          "isTransfer":true,
+          "isTruncate":true,
+          "selectionCriteria":"id>40 and id<500",
+          "attrs":[
+            {
+              "name":"Имя атребута",
+              "description":"описание",
+              "typePersonalInformation":"none"
+            },
+            {
+              "name":"ФИО",
+              "description":"описание",
+              "typePersonalInformation":"fullName"
+            }
+          ]
+        },
+        {
+          "name":"Имя таблицы23",
+          "description":"описание",
+          "isTransfer":false,
+          "isTruncate":false,
+          "attrs":[
+            {
+              "name":"Имя атребута",
+              "description":"описание",
+              "typePersonalInformation":"none"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
