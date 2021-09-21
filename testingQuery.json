@@ -76,7 +76,7 @@
             {
               "name":"ФИО",
               "description":"описание",
-              "typePersonalInformation":"fullName"
+              "typePersonalInformation":"none"
             }
           ]
         },
@@ -95,7 +95,7 @@
             {
               "name":"ФИО",
               "description":"описание",
-              "typePersonalInformation":"fullName"
+              "typePersonalInformation":"none"
             }
           ]
         },
