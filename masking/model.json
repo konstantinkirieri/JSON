@@ -1,0 +1,23 @@
+{
+  "name": "Model 2",
+  "isMasking": true,
+  "progress": 5,
+  "stores": [
+    {
+      "name": "DS 1",
+      "isMasking": true,
+      "progress": 5,
+      "tables": [
+        {
+          "name": "Table 1",
+          "isMasking": true,
+          "progress": 5
+        },
+        {
+          "name": "Table 2",
+          "isMasking": false
+        }
+      ]
+    }
+  ]
+}

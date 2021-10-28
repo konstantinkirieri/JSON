@@ -1,0 +1,12 @@
+{
+  "name": "Model 1",
+  "isAnalize": true,
+  "progress": 5,
+  "stores": [
+    {
+      "name": "DS 1",
+      "isAnalize": true,
+      "progress": 5
+    }
+  ]
+}
