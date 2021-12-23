@@ -1,21 +1,24 @@
 {
   "name": "Model 2",
-  "isMasking": true,
-  "progress": 5,
+  "masking": true,
+  "total": 70,
+  "done": 24,
   "stores": [
     {
       "name": "DS 1",
-      "isMasking": true,
-      "progress": 5,
+      "masking": true,
+      "total": 70,
+      "done": 24,
       "tables": [
         {
           "name": "Table 1",
-          "isMasking": true,
-          "progress": 5
+          "masking": true,
+          "total": 70,
+          "done": 24
         },
         {
           "name": "Table 2",
-          "isMasking": false
+          "masking": false
         }
       ]
     }
